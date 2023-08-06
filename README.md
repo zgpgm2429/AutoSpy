@@ -39,13 +39,13 @@ https://t.me/spy_auth
 开始：
 
 1、一键，运行一次就行，那个登录的时候ctrl+c跳过：
-wget -O autospy https://raw.githubusercontent.com/xieshang/AutoSpy/master/docker.sh && chmod +x autospy && ./autospy
+wget -O autospy https://raw.githubusercontent.com/zgpgm2429/AutoSpy/master/docker.sh && chmod +x autospy && ./autospy
 
 进入容器：
 docker exec -it auto_spy bash
  
 强制升级：
-bash <(curl -s -L https://raw.githubusercontent.com/xieshang/AutoSpy/master/spy_update.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/zgpgm2429/AutoSpy/master/spy_update.sh)
 
 
 3、登录
